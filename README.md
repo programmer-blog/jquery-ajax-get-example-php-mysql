@@ -4,7 +4,7 @@ URL: http://programmerblog.net
 
 In this tutorial, you will learn about jQuery Ajax GET method example with PHP and MySQL:
 
-Following tasks are perfomred in this tutorial.
+Following tasks are performed in this tutorial.
 
 1. Create a MySQL table and insert data
 
